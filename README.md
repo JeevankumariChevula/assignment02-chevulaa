@@ -20,3 +20,11 @@ The National Gallery is an art museum in **Trafalgar Square in the City of Westm
 - Let it Be Rock-n-Roll Band
 
 [About Me](AboutMe.md)
+
+***
+### Tables
+This table says about the nearest places to visit.
+| City | Tourist Spot | Time to be taken |
+| National Mall | London | 30 Mins |
+| Nelson's Column | Tarfalgar Square | 10 Mins |
+|Somerset House Ice Rink | Somerset House | 2 Hours |
