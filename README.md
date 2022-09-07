@@ -11,3 +11,11 @@ The National Gallery is an art museum in **Trafalgar Square in the City of Westm
 3. Southern Service operates a train from Gatwick Airport to London Victoria every 15 minutes. 
 4. Tickets cost $10 - $26 and the journey takes 32 min. 
 5. Gatwick Express also services this route hourly.
+
+- National Portrait Gallery<br>
+- Withlocals<br>
+- St Martin-in-the-Fields<br>
+- Garrick Theatre<br>
+- London Coliseum<br>
+- Let it Be Rock-n-Roll Band
+
