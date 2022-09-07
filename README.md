@@ -50,4 +50,4 @@ buttons.forEach((button) => {
   });
 });
 ```
-[quote snippet](https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/)
+[code snippet](https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/)
