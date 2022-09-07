@@ -39,3 +39,15 @@ This table says about the nearest places to visit.
 
 ***
 ### Code Fencing
+> How can I get every button inside a class and add an event listener to it? 
+
+[Question](https://stackoverflow.com/questions/50178438/get-an-element-inside-a-class)
+
+```
+buttons.forEach((button) => {
+  button.addEventListener('click', () => {
+    console.log("forEach worked");
+  });
+});
+```
+[quote snippet](https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/)
