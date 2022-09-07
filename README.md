@@ -29,9 +29,13 @@ This table says about the nearest places to visit.
 | National Mall | London | 30 Mins |
 | Nelson's Column | Tarfalgar Square | 10 Mins |
 |Somerset House Ice Rink | Somerset House | 2 Hours |
+|National Art | London | 15 mins |
 
 ***
 ### Pithy Quotes
-> "Love is the flower you’ve got to let grow"  **John Lennon**
+> "Love is the flower you’ve got to let grow" - *John Lennon*
 
-> "Love is like wildflowers; it’s often found in the most unlikely places" **Ralph Waldo Emerson**
+> "Love is like wildflowers; it’s often found in the most unlikely places"- *Ralph Waldo Emerson*
+
+***
+### Code Fencing
